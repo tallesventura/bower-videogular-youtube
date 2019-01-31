@@ -16,5 +16,9 @@
     "videogular-overlay-play": "latest"
   },
   "license": "MIT",
-  "homepage": "http://nampnq.vietnamcode.info"
+  "homepage": "http://nampnq.vietnamcode.info",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/tallesventura/bower-videogular-youtube.git"
+  }
 }
